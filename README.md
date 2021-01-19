@@ -4,14 +4,41 @@
 
 <br/>
 
-- Purpose:
-    - a
-- Functionality & Features:
-    - a
-- Target Audience:
-    - a
-- Tech Stack:
-    - a
+***What is SubTracked?***
+
+- Purpose
+
+    - SubTracked's purpose it to take the multiple subscriptions people pick up and roll them together into one easy web         application. This allows for people to maintain their subscriptions with relative ease, and takes the stress away from not knowing when payments are due
+<br>
+
+- Functionality and Features
+
+   - SubTracked features an easy-to-use layout and takes advantage of the less is more approach. SubTracked is easy to navigate, and makes managing subscriptions easy
+
+   - SubTracked alerts the user when they have an upcoming payment, and notifies them of the cost and the due date
+
+   - SubTracked also features the ability to plug any subscription you want into the system, also allowing for full editing and deletion of subscriptions
+<br>
+- Target Audience
+
+   - SubTracked's demographic is quite broad, and aims to serve anyone who wants to be up to date with their subscriptions and finances
+<br>
+
+- Tech Stack
+
+    - SubTracked features a diverse tech stack, including:
+
+       - Ruby on Rails
+
+       - JavaScript
+
+       - React
+
+       - HTML5
+
+       - CSS
+
+       - PostgreSQL database
 
 <br/>
 
