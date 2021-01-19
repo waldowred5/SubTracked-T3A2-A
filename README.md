@@ -19,6 +19,7 @@
 
    - SubTracked also features the ability to plug any subscription you want into the system, also allowing for full editing and deletion of subscriptions
 <br>
+
 - Target Audience
 
    - SubTracked's demographic is quite broad, and aims to serve anyone who wants to be up to date with their subscriptions and finances
