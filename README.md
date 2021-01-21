@@ -27,7 +27,9 @@
 
 <br/>
 
+<img src="./img/diagrams/app-arch.png" alt="Application Architecture Diagram" />
 
+<br/>
 
 <br/>
 
