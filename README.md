@@ -47,7 +47,7 @@
 
 <br/>
 
-
+<img src="./img/diagrams/dataflow.png" alt="Data Flow Diagram" />
 
 <br/>
 
