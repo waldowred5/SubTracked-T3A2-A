@@ -85,13 +85,7 @@
 
 <br/>
 
-<details>
-    <summary>
-    Wireframes (Click to expand):
-    </summary>
-    - Example:
-    <img src="./example.png" alt="Example Text" />
-</details>
+<a href="./docs/img/diagrams/subtracked-wireframes.pdf">SubTracked Wireframes (PDF)</a>
 
 <br/>
 
@@ -104,13 +98,19 @@
     Trello Screenshots (Click to expand):
     </summary>
     - Day 1:
-    <img src="./img/trello-screenshots/trello-jan-18-21.png" alt="Trello Screenshot Day 1" />
+    <img src="./docs/img/trello-screenshots/trello-jan-18-21.png" alt="Trello Screenshot Day 1" />
     - Day 2:
-    <img src="./img/trello-screenshots/trello-jan-19-21.png" alt="Trello Screenshot Day 2" />
+    <img src="./docs/img/trello-screenshots/trello-jan-19-21.png" alt="Trello Screenshot Day 2" />
     - Day 3:
-    <img src="./img/trello-screenshots/trello-jan-20-21.png" alt="Trello Screenshot Day 3" />
+    <img src="./docs/img/trello-screenshots/trello-jan-20-21.png" alt="Trello Screenshot Day 3" />
     - Day 5:
-    <img src="./img/trello-screenshots/trello-jan-22-21.png" alt="Trello Screenshot Day 5" />
+    <img src="./docs/img/trello-screenshots/trello-jan-22-21.png" alt="Trello Screenshot Day 5" />
+    - Day 6:
+    <img src="./docs/img/trello-screenshots/trello-jan-23-21.png" alt="Trello Screenshot Day 6" />
+    - Day 7:
+    <img src="./docs/img/trello-screenshots/trello-jan-24-21.png" alt="Trello Screenshot Day 7" />
+    - Day 8:
+    <img src="./docs/img/trello-screenshots/trello-jan-25-21.png" alt="Trello Screenshot Day 7" />
 </details>
 
 <br/>
