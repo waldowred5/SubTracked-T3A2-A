@@ -49,7 +49,7 @@
 
 <br/>
 
-<img src="./img/diagrams/dataflow.png" alt="Data Flow Diagram" />
+<img src="./docs/img/diagrams/dataflow.png" alt="Data Flow Diagram" />
 
 <br/>
 
@@ -57,7 +57,7 @@
 
 <br/>
 
-<img src="./img/diagrams/app-arch.png" alt="Application Architecture Diagram" />
+<img src="./docs/img/diagrams/app-arch.png" alt="Application Architecture Diagram" />
 
 <br/>
 
