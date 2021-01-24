@@ -8,21 +8,23 @@
 
 - Purpose
 
-    - SubTracked's purpose it to take the multiple subscriptions people pick up and roll them together into one easy web         application. This allows for people to maintain their subscriptions with relative ease, and takes the stress away from not knowing when payments are due
+    - The SubTracked application is a subscription management platform, allowing users to roll all of their subscriptions together into one easy web application. This allows users to manage their subscriptions with ease, removing the stress of not knowing when payments are due.
+
 <br>
 
 - Functionality and Features
 
-   - SubTracked features an easy-to-use layout and takes advantage of the less is more approach. SubTracked is easy to navigate, and makes managing subscriptions easy
+   - SubTracked features:
+     - an intuitive design inspired by a 'less is more' approach, making it is easy to navigate and manage subscriptions
+     - alerts to notify users when they have upcoming payments, including cost and due date
+     - a flexible creation system allowing for any subscription to be tracked and managed by users
 
-   - SubTracked alerts the user when they have an upcoming payment, and notifies them of the cost and the due date
-
-   - SubTracked also features the ability to plug any subscription you want into the system, also allowing for full editing and deletion of subscriptions
 <br>
 
 - Target Audience
 
-   - SubTracked's demographic is quite broad, and aims to serve anyone who wants to be up to date with their subscriptions and finances
+   - SubTracked is designed for anyone who wants to keep up to date with their subscriptions and take control of their subscription costs
+
 <br>
 
 - Tech Stack
@@ -37,9 +39,9 @@
 
        - HTML5
 
-       - CSS
+       - CSS3
 
-       - PostgreSQL database
+       - PostgreSQL Database
 
 <br/>
 
@@ -67,17 +69,15 @@
 
 ***As a user, I want to:***
 
-- I want to be able to keep track of my paid subscriptions, in order to be able to budget and keep on top of my finances
+- be able to keep track of my paid subscriptions in order to budget and keep on top of my finances
 
-- I want to be alerted in advance to when a subscription is due, and how much the subscription is due for
+- be able to create and edit my own subscriptions, including the billing frequency and amount
 
-- I want to be able to seamlessly traverse the app, and be able to cognitively work the site without trouble
+- be able to delete subscriptions after I've unsubscribed from them
 
-- I want to be able to easily set my own subscriptions, and be able to know exactly when and for how much my subscription is going to cost
+- be alerted when a subscription is due and how much it will cost
 
-- I want to be able to update my subscriptions, in order to change the cost of them
-
-- I want to be able to delete subscriptions, after I've unsubscribed from them
+- be able to navigate the application easily via a simple and intuitive interface
 
 <br/>
 
@@ -109,8 +109,8 @@
     <img src="./img/trello-screenshots/trello-jan-19-21.png" alt="Trello Screenshot Day 2" />
     - Day 3:
     <img src="./img/trello-screenshots/trello-jan-20-21.png" alt="Trello Screenshot Day 3" />
-    - Day 4:
-    <img src="./img/trello-screenshots/trello-jan-21-21.png" alt="Trello Screenshot Day 4" />
+    - Day 5:
+    <img src="./img/trello-screenshots/trello-jan-22-21.png" alt="Trello Screenshot Day 5" />
 </details>
 
 <br/>
