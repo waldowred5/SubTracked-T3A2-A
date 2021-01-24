@@ -17,7 +17,7 @@
    - SubTracked features:
      - an intuitive design inspired by a 'less is more' approach, making it is easy to navigate and manage subscriptions
      - alerts to notify users when they have upcoming payments, including cost and due date
-     - a flexible creation system allowing for any subscription to be tracked and managed by users
+     - a flexible creation system allowing for any subscription to be managed by users, including the facility to edit and delete subscriptions as needed
 
 <br>
 
@@ -42,6 +42,9 @@
        - CSS3
 
        - PostgreSQL Database
+
+       - Deployed on: Heroku (Backend) & Netlify (Frontend)
+
 
 <br/>
 
