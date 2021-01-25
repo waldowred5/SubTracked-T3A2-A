@@ -73,14 +73,19 @@
 ***As a user, I want to:***
 
 - be able to keep track of my paid subscriptions in order to budget and keep on top of my finances
+    - This speaks to the overall functionality of the application and has not ultimately changed since the idea was selected for the project.
 
 - be able to create and edit my own subscriptions, including the billing frequency and amount
+    - Initially, this requirement was just for the creation and editing of a subscription with the amount, but it seemed more useful to allow users to choose the billing frequency for each subscription as each will have a different billing cycle. Including this frequency allows users to see in their dashboard a countdown to the due date for every subscription, providing the application significantly more utility.
 
 - be able to delete subscriptions after I've unsubscribed from them
+    - This was an early requirement that has not changed since inception.
 
 - be alerted when a subscription is due and how much it will cost
+    - Notifications were initially omitted due to project time frame constraints, but were ultimately included as they will make up a large part of the success of the application, as a subscription management platform that doesn't notify users of upcoming payments is unlikely to be very useful.
 
 - be able to navigate the application easily via a simple and intuitive interface
+    - An easy-to-use interface was a key requirement from the initial planning phase for the application.
 
 <br/>
 
