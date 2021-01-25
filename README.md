@@ -118,7 +118,7 @@
     - Day 7:
     <img src="./docs/img/trello-screenshots/trello-jan-24-21.png" alt="Trello Screenshot Day 7" />
     - Day 8:
-    <img src="./docs/img/trello-screenshots/trello-jan-25-21.png" alt="Trello Screenshot Day 7" />
+    <img src="./docs/img/trello-screenshots/trello-jan-25-21.png" alt="Trello Screenshot Day 8" />
 </details>
 
 <br/>
